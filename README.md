@@ -24,4 +24,4 @@
 
 ## ▶️ Запуск
 ```bash
-python seconds_to_time.py
+python main.py
